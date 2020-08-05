@@ -3,7 +3,7 @@
 ## I'm a Student!
 - 🔭 I’m currently working on various projects, mostly with discord bots and some open-source projects!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn new things.
+- 🥅 2020 Goals: Contribute more to Open Source projects, learn new things and complete my mal queue. uwu
 - ⚡ Fun fact: meh nevermind!
 ### Connect with me:
 
@@ -15,6 +15,7 @@
 [<img align="left" alt="Arlon | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
 
 
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
