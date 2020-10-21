@@ -26,5 +26,5 @@
 [youtube]: https://www.youtube.com/channel/UC7l19HtYF7JAtm-XR_N1UnQ
 [instagram]: https://instagram.com/me_Arlon
 [twitch]: https://www.twitch.tv/me_Arlon
-[discord]: Arlon#7859
+[discord]: Arlon#0001
 [reddit]: https://www.reddit.com/user/-Arlon-
