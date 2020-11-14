@@ -10,7 +10,7 @@
 [<img align="left" alt="shun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="shun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shun | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" target="_blank"/>][discord]
+[<img align="left" alt="shun | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
 [<img align="left" alt="shun | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
 [<img align="left" alt="shun | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
 
