@@ -1,4 +1,4 @@
-### Hiya! 👋 It's me shun or formerly known as Arlon.
+### Hiya! 👋 It's me shun aka Arlon.
 
 ## I'm just a Student with some interest in code!
 - 🔭 I’m currently working on various projects, mostly on discord bots and some open-source projects!
