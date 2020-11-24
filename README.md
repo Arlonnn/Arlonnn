@@ -1,10 +1,10 @@
 ### Hiya! 👋 It's me kyo aka Arlon.
 
 ## I'm just a Student with some interest in code!
-- 🔭 I’m currently working on various projects, mostly on discord bots and some open-source projects!
-- 🌱 I’m currently learning everything that interests me 🤣
-- 🥅 2020 Goals: Learn new things and complete my mal queue.(Actually I'm being lazy)
+- 🔭 Currently working on various projects, mostly on discord bots and some open-source projects!
+- 🥅 2020 Goals: Learn new things, and complete my mal queue.(Actually I'm being lazy)
 - ⚡ Not much to add lol ;-;
+
 ### Connect with me:
 
 [<img align="left" alt="kyo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,11 +14,8 @@
 [<img align="left" alt="kyo | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitch.svg" />][twitch]
 [<img align="left" alt="kyo | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />][reddit]
 
-
 <br />
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://idonthaveanywebsiteyet.sob
