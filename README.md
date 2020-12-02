@@ -19,9 +19,9 @@
 
 
 [website]: https://idonthaveanywebsiteyet.sob
-[twitter]: https://twitter.com/kyoy_o
+[twitter]: https://twitter.com/notkyoyo
 [youtube]: https://www.youtube.com/channel/UC7l19HtYF7JAtm-XR_N1UnQ
-[instagram]: https://instagram.com/kyoy_o
+[instagram]: https://instagram.com/notkyoyo
 [twitch]: https://www.twitch.tv/me_Arlon
 [discord]: Arlon#0001
 [reddit]: https://www.reddit.com/user/-Arlon-
