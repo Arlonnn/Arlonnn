@@ -17,7 +17,7 @@
 <br />
 <br />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notkyoyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://idonthaveanywebsiteyet.sob
 [twitter]: https://twitter.com/notkyoyo
 [youtube]: https://www.youtube.com/channel/UC7l19HtYF7JAtm-XR_N1UnQ
